@@ -1,0 +1,12 @@
+/* Classes de formulário início */
+
+.formulario{ width: 620px; margin: 0 auto; margin-top: 130px;}
+.form-group{ width: 100%; float: left; margin-bottom: 20px;}
+.half{ width: 48%;}
+.space{ margin-right: 4%;}/* O space deverá ser usado juntamente com o half */
+.topLabel{ width: 100%; float: left; font-family: 'Ruluko', sans-serif; color: #fff; font-size: 16px;}
+.inputForm{ width: 98%; float: left; height: 30px; padding-left: 1%; padding-right: 1%; border: 0px solid #fff; border-radius: 5px; font-family: 'Ruluko', sans-serif;}
+.areaForm{ width: 98%; float: left; height: 90px; padding: 5px 1% 5px 1%;  border: 0px solid #fff; border-radius: 5px; font-family: 'Ruluko', sans-serif;}
+.buttomForm{ border: 0px solid #000; font-size: 18px; cursor: pointer;}
+
+/* Classes de formulário fim */
