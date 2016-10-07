@@ -1,4 +1,4 @@
-contactFormValidator-jQuery
+jquery-contact-form-validator
 ===========================
 
 Description: This is a plugin for a basic contact form validation. This package contains a page html (contato.html), a stylesheet (style.css) and a jQuery code (formValidator.js).
